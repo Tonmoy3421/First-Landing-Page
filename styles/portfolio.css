@@ -38,6 +38,9 @@ section{
     color: black;
     font-weight: 700;
 }
+.link-button:hover{
+    color: rgb(13, 0, 255);
+}
 h3{
     color: rgb(42, 127, 223);
     font-weight: 900px;
